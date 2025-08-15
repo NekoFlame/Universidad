@@ -21,10 +21,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Install
 
-1. Clone the repo
-   ```sh
-   git clone git@github.com:gioudi/Universidad.git
-   ```
+1. Download "taller.rar"
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
