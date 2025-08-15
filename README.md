@@ -10,7 +10,7 @@
 
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+para poder correr el proyecto, sigue los siguientes pasos.
 
 ### Prerequisites
 
@@ -21,7 +21,11 @@ To get a local copy up and running follow these simple example steps.
 
 ### Install
 
-1. Download "taller.rar"
+1. Descarga "taller.rar"
+   
+2. Descomprimelo con Winrar
+   
+3. Al obtener la carpeta "Taller", abrela en VsCode, en File - Open Folder y abrela
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
