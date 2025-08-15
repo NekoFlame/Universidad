@@ -34,7 +34,7 @@ para poder correr el proyecto, sigue los siguientes pasos.
 1.Run project
 
 ```
-  "dotnet run -n AdivinaelNumero" es el comando de terminal que debes ejecutar luego de abrir el folder "taller" en VsCode
+  Luego de esto dirigete a Adivinaelnumero-Adivinaelnumero.cs, y ejecutas el programa
 ```
 
 ## Authors
